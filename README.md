@@ -1,10 +1,10 @@
 # Projeto apptempo
  
-##Technologies
+## <b>Technologies</b>
 
 This project was developed with the following technologies:
 
--Javascript
--React Native
--React Hooks 
--Axios
+-Javascript<br>
+-React Native<br>
+-React Hooks <br>
+-Axios<br>
