@@ -1,7 +1,7 @@
 # Projeto apptempo
 
 <p align="center"> 
-   <img width="400" src="src/assets/to_readme/apptempo.gif"> 
+   <img width="300" src="src/assets/to_readme/apptempo.gif"> 
 </p>
 <p align="center">
 <img width="150" src="src/assets/to_readme/carregando.jpeg">
