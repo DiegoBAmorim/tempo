@@ -13,7 +13,9 @@
  
 ## <b>Description</b>
 Um app desenvolvido com a tecnologia [ReactNative](https://reactnative.dev/), utilizando a Api da [HGBrasil](https://hgbrasil.com/).
-Para se obter dados das mudanças climáticas. Tendo Uma interface simples com layout agradavel utilizado do canal do youtube SujeitoProgramador. Precisa de conexão com a Internet para funcionar.
+Para se obter dados das mudanças climáticas. Tendo Uma interface simples com layout agradavel utilizado do canal do youtube SujeitoProgramador. Precisa de conexão com a Internet para funcionar.<br><br>
+
+An app developed with [ReactNative](https://reactnative.dev/) technology, [HGBrasil's](https://hgbrasil.com/) Api. 
 
 ## <b>Technologies</b>
 
