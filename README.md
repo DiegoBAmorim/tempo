@@ -1,7 +1,14 @@
 # Projeto apptempo
 
 <p align="center"> 
-  <img width="470" src="src/assets/to_readme/apptempo.gif">
+   <img width="400" src="src/assets/to_readme/apptempo.gif"> 
+</p>
+<p align="center">
+<img width="150" src="src/assets/to_readme/carregando.jpeg">
+   <img width="150" src="src/assets/to_readme/teladia.jpeg">
+   <img width="150" src="src/assets/to_readme/telanoite.jpeg">
+   <img width="150" src="src/assets/to_readme/drawer.jpeg">
+   <img width="150" src="src/assets/to_readme/procurar.jpeg">
 </p>
  
 ## <b>Description</b>
