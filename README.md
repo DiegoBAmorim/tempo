@@ -1,4 +1,8 @@
 # Projeto apptempo
+
+<p align="center"> 
+  <img width="470" src="src/assets/to_readme/apptempo.gif">
+</p>
  
 ## <b>Technologies</b>
 
