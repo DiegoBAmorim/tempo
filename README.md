@@ -12,3 +12,4 @@ This project was developed with the following technologies:
 -React Native<br>
 -React Hooks <br>
 -Axios<br>
+-Expo<br>
